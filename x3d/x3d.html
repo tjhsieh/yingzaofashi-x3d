@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/x3dom@1.8.3/x3dom.css" />
   <script src="https://cdn.jsdelivr.net/npm/x3dom@1.8.3/x3dom.js"></script>
   <script src="./model_config.js"></script>
-  <script src="./model_skp/skp_models.js"></script>
+  <script src="./model_x3d/skp_models.js"></script>
 
   <script>
     // Fog exactly like THREE.Fog(color, near, far) in the STL pages: smoothstep on view depth.
@@ -160,7 +160,7 @@
 
     // models: DEF/USE converted from the SketchUp files (skp2x3d.py), each checked against the STL page
     function modelFolder(modelName) {
-      return './model_skp/';
+      return './model_x3d/';
     }
 
     const MODEL_EXTENSION = '.x3d';
