@@ -6,6 +6,4 @@ _Authors:_ Hsieh
 
 These models can be displayted and downloaded.
 
-[https://tjhsieh.github.io/yingzaofashi/](https://tjhsieh.github.io/yingzaofashi/)
-"# yingzaofashi-x3d" 
-"# yingzaofashi-x3d" 
+[https://tjhsieh.github.io/yingzaofashi-x3d/](https://tjhsieh.github.io/yingzaofashi-x3d/)
